@@ -1,3 +1,3 @@
 # jith_kumar
-this is my first git repository /n
+this is my first git repository 
 author - jithendra kumar pydi
